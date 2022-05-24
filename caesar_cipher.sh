@@ -1,5 +1,5 @@
 #!/bin/bash
-echo Enter message, capitals only:
+echo Enter message, uppercase letters only:
 read m
 #Reading the message
 echo a Encoding
